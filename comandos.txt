@@ -1,0 +1,4 @@
+
+g++ trabalho2d.cpp -o trabalho2d -lopengl32 -I ./glew-2.2.0/include/ -I ./freeglut/include/ ./glew-2.2.0/bin/Release/x64/glew32.dll ./freeglut/bin/x64/freeglut.dll -I ./glm
+
+g++ trabalho3d.cpp -o trabalho3d -lopengl32 -I ./glew-2.2.0/include/ -I ./freeglut/include/ ./glew-2.2.0/bin/Release/x64/glew32.dll ./freeglut/bin/x64/freeglut.dll -I ./glm
