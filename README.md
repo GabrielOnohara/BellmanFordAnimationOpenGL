@@ -30,3 +30,18 @@ trabalho2d
 ````
 trabalho3d
 ````  
+
+ ### 3D Commands
+ 
+| Key      	|   Action         	|
+|:--------:	|:----------------:	|
+| ESC or Q 	|   Close window   	|
+|     A    	|     Move left    	|
+|     D    	|    Move right    	|
+|     W    	|      Move up     	|
+|     S    	|     Move Down    	|
+|     R    	| Rotate on x-axis 	|
+|     Z    	|      Zoom in     	|
+|     X    	|     Zoom out     	|
+|     G    	|   Do next step   	|
+
