@@ -1,6 +1,6 @@
 # BellmanFordAnimationOpenGL
 
-This project is an OpenGL animation of the Bellamn-Ford algorithm.
+This project is an OpenGL animation of the Bellman-Ford algorithm.
  
  ### Installation and Execution (Windows)
 
